@@ -1,0 +1,2 @@
+# TechZad
+For college study
